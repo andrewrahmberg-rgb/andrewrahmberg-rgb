@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+Cytometry In R
+
+Location: Silver Spring, Maryland, USA
+
+My Favorite Fluorophore/Metal-Isotope: BV421
+
+Previous Coding Experience: minimal
+
+What I Hope to Get From This Course: experience with flow data outside of flowjo
+
+
 <!--
 **andrewrahmberg-rgb/andrewrahmberg-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
